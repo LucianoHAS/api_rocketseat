@@ -1,0 +1,6 @@
+{
+    "dbUri": "uri_connection",
+    "options": {
+        "mongo_init_option": "value"
+    }
+}
